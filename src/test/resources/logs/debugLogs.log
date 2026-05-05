@@ -1,0 +1,153 @@
+13:19:25.579 INFO  AUTOMATION - beforeAll
+13:19:25.585 DEBUG AUTOMATION - Borrando la carpeta de evidencias
+13:19:25.656 INFO  AUTOMATION - before: Logout
+13:19:25.656 DEBUG AUTOMATION - Inicializando el driver: EDGE
+13:19:25.656 DEBUG AUTOMATION - headless mode? false
+13:19:27.345 DEBUG AUTOMATION - Maximizando Pantalla
+13:19:27.401 DEBUG AUTOMATION - Borrando cookies
+13:19:27.401 DEBUG AUTOMATION - Asignando driver al webdriver provider
+13:19:27.416 DEBUG AUTOMATION - Asignando la cookie de login
+13:19:27.939 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+13:19:28.230 INFO  AUTOMATION - ShoppingPage se ha cargado satiscatoriamente
+13:19:28.233 INFO  AUTOMATION - Abriendo el menu Burger
+13:19:28.325 INFO  AUTOMATION - Esperando que la pagina MenuBurgerPage cargue
+13:19:28.881 INFO  AUTOMATION - MenuBurgerPage se ha cargado satiscatoriamente
+13:19:28.881 INFO  AUTOMATION - Esperando que sea clickeable por la animación
+13:19:28.946 INFO  AUTOMATION - Haciendo click en logout
+13:19:29.071 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
+13:19:29.103 INFO  AUTOMATION - LoginPage se ha cargado satiscatoriamente
+13:19:29.103 INFO  AUTOMATION - Verificando la pagina de Login
+13:19:29.198 INFO  AUTOMATION - after: Logout, status: PASSED
+13:19:29.198 DEBUG AUTOMATION - Matando el driver
+13:19:29.507 INFO  AUTOMATION - before: About
+13:19:29.507 DEBUG AUTOMATION - Inicializando el driver: EDGE
+13:19:29.507 DEBUG AUTOMATION - headless mode? false
+13:19:31.043 DEBUG AUTOMATION - Maximizando Pantalla
+13:19:31.147 DEBUG AUTOMATION - Borrando cookies
+13:19:31.179 DEBUG AUTOMATION - Asignando driver al webdriver provider
+13:19:31.181 DEBUG AUTOMATION - Asignando la cookie de login
+13:19:31.802 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+13:19:32.097 INFO  AUTOMATION - ShoppingPage se ha cargado satiscatoriamente
+13:19:32.097 INFO  AUTOMATION - Abriendo el menu Burger
+13:19:32.256 INFO  AUTOMATION - Esperando que la pagina MenuBurgerPage cargue
+13:19:32.817 INFO  AUTOMATION - MenuBurgerPage se ha cargado satiscatoriamente
+13:19:32.817 INFO  AUTOMATION - Esperando que sea clickeable por la animación
+13:19:32.934 INFO  AUTOMATION - Verificando la opcion de about
+13:19:32.975 INFO  AUTOMATION - after: About, status: PASSED
+13:19:32.975 DEBUG AUTOMATION - Matando el driver
+13:19:33.254 INFO  AUTOMATION - before: Verificar la UI del detalle
+13:19:33.254 DEBUG AUTOMATION - Inicializando el driver: EDGE
+13:19:33.254 DEBUG AUTOMATION - headless mode? false
+13:19:34.719 DEBUG AUTOMATION - Maximizando Pantalla
+13:19:34.826 DEBUG AUTOMATION - Borrando cookies
+13:19:34.860 DEBUG AUTOMATION - Asignando driver al webdriver provider
+13:19:34.864 DEBUG AUTOMATION - Asignando la cookie de login
+13:19:35.501 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+13:19:35.845 INFO  AUTOMATION - ShoppingPage se ha cargado satiscatoriamente
+13:19:35.845 INFO  AUTOMATION - Navegando al detalle del item: Sauce Labs Fleece Jacket
+13:19:36.001 INFO  AUTOMATION - Esperando que la pagina ItemDetailPage cargue
+13:19:36.034 INFO  AUTOMATION - ItemDetailPage se ha cargado satiscatoriamente
+13:19:36.036 INFO  AUTOMATION - Verificando el detalle del item
+13:19:36.402 INFO  AUTOMATION - after: Verificar la UI del detalle, status: PASSED
+13:19:36.404 DEBUG AUTOMATION - Matando el driver
+13:19:36.785 INFO  AUTOMATION - before: Regresar pagina shopping
+13:19:36.785 DEBUG AUTOMATION - Inicializando el driver: EDGE
+13:19:36.785 DEBUG AUTOMATION - headless mode? false
+13:19:38.399 DEBUG AUTOMATION - Maximizando Pantalla
+13:19:38.591 DEBUG AUTOMATION - Borrando cookies
+13:19:38.625 DEBUG AUTOMATION - Asignando driver al webdriver provider
+13:19:38.627 DEBUG AUTOMATION - Asignando la cookie de login
+13:19:39.383 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+13:19:39.726 INFO  AUTOMATION - ShoppingPage se ha cargado satiscatoriamente
+13:19:39.726 INFO  AUTOMATION - Navegando al detalle del item: Sauce Labs Fleece Jacket
+13:19:39.884 INFO  AUTOMATION - Esperando que la pagina ItemDetailPage cargue
+13:19:39.918 INFO  AUTOMATION - ItemDetailPage se ha cargado satiscatoriamente
+13:19:39.918 INFO  AUTOMATION - Haciendo click en back to products
+13:19:40.052 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+13:19:40.079 INFO  AUTOMATION - ShoppingPage se ha cargado satiscatoriamente
+13:19:40.079 INFO  AUTOMATION - Verificando la pagina de shopping
+13:19:40.204 INFO  AUTOMATION - after: Regresar pagina shopping, status: PASSED
+13:19:40.204 DEBUG AUTOMATION - Matando el driver
+13:19:40.767 INFO  AUTOMATION - before: Credenciales erroneas
+13:19:40.767 DEBUG AUTOMATION - Inicializando el driver: EDGE
+13:19:40.767 DEBUG AUTOMATION - headless mode? false
+13:19:42.281 DEBUG AUTOMATION - Maximizando Pantalla
+13:19:42.371 DEBUG AUTOMATION - Borrando cookies
+13:19:42.402 DEBUG AUTOMATION - Asignando driver al webdriver provider
+13:19:42.402 INFO  AUTOMATION - Navegando a la url
+13:19:43.043 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
+13:19:43.096 INFO  AUTOMATION - LoginPage se ha cargado satiscatoriamente
+13:19:43.096 INFO  AUTOMATION - Escribiendo el username
+13:19:43.253 INFO  AUTOMATION - Escribiendo el password
+13:19:43.385 INFO  AUTOMATION - Haciendo click en el boton de login
+13:19:43.731 INFO  AUTOMATION - Verificando el mensaje de error y su texto
+13:19:43.789 INFO  AUTOMATION - after: Credenciales erroneas, status: PASSED
+13:19:43.789 DEBUG AUTOMATION - Matando el driver
+13:19:44.085 INFO  AUTOMATION - before: Credenciales erroneas
+13:19:44.085 DEBUG AUTOMATION - Inicializando el driver: EDGE
+13:19:44.085 DEBUG AUTOMATION - headless mode? false
+13:19:45.576 DEBUG AUTOMATION - Maximizando Pantalla
+13:19:45.734 DEBUG AUTOMATION - Borrando cookies
+13:19:45.767 DEBUG AUTOMATION - Asignando driver al webdriver provider
+13:19:45.769 INFO  AUTOMATION - Navegando a la url
+13:19:46.407 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
+13:19:46.449 INFO  AUTOMATION - LoginPage se ha cargado satiscatoriamente
+13:19:46.449 INFO  AUTOMATION - Escribiendo el username
+13:19:46.605 INFO  AUTOMATION - Escribiendo el password
+13:19:46.861 INFO  AUTOMATION - Haciendo click en el boton de login
+13:19:47.071 INFO  AUTOMATION - Verificando el mensaje de error y su texto
+13:19:47.114 INFO  AUTOMATION - after: Credenciales erroneas, status: PASSED
+13:19:47.117 DEBUG AUTOMATION - Matando el driver
+13:19:47.449 INFO  AUTOMATION - before: Verificar la UI de la pagina
+13:19:47.449 DEBUG AUTOMATION - Inicializando el driver: EDGE
+13:19:47.449 DEBUG AUTOMATION - headless mode? false
+13:19:48.933 DEBUG AUTOMATION - Maximizando Pantalla
+13:19:49.041 DEBUG AUTOMATION - Borrando cookies
+13:19:49.077 DEBUG AUTOMATION - Asignando driver al webdriver provider
+13:19:49.079 INFO  AUTOMATION - Navegando a la url
+13:19:49.718 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
+13:19:49.769 INFO  AUTOMATION - LoginPage se ha cargado satiscatoriamente
+13:19:49.769 INFO  AUTOMATION - Verificando la pagina de Login
+13:19:49.870 INFO  AUTOMATION - after: Verificar la UI de la pagina, status: PASSED
+13:19:49.870 DEBUG AUTOMATION - Matando el driver
+13:19:50.192 INFO  AUTOMATION - before: Verificar la UI
+13:19:50.192 DEBUG AUTOMATION - Inicializando el driver: EDGE
+13:19:50.192 DEBUG AUTOMATION - headless mode? false
+13:19:51.691 DEBUG AUTOMATION - Maximizando Pantalla
+13:19:51.825 DEBUG AUTOMATION - Borrando cookies
+13:19:51.843 DEBUG AUTOMATION - Asignando driver al webdriver provider
+13:19:51.845 DEBUG AUTOMATION - Asignando la cookie de login
+13:19:52.442 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+13:19:52.740 INFO  AUTOMATION - ShoppingPage se ha cargado satiscatoriamente
+13:19:52.740 INFO  AUTOMATION - Verificando la pagina de shopping
+13:19:52.836 INFO  AUTOMATION - after: Verificar la UI, status: PASSED
+13:19:52.836 DEBUG AUTOMATION - Matando el driver
+13:19:53.128 INFO  AUTOMATION - before: Verificar precios
+13:19:53.128 DEBUG AUTOMATION - Inicializando el driver: EDGE
+13:19:53.128 DEBUG AUTOMATION - headless mode? false
+13:19:54.838 DEBUG AUTOMATION - Maximizando Pantalla
+13:19:54.949 DEBUG AUTOMATION - Borrando cookies
+13:19:54.970 DEBUG AUTOMATION - Asignando driver al webdriver provider
+13:19:54.970 DEBUG AUTOMATION - Asignando la cookie de login
+13:19:55.670 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+13:19:55.993 INFO  AUTOMATION - ShoppingPage se ha cargado satiscatoriamente
+13:19:56.188 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:19:56.194 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:19:56.291 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:19:57.085 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+13:19:57.085 INFO  AUTOMATION - Verificando el precio de los productos
+13:19:57.342 INFO  AUTOMATION - after: Verificar precios, status: PASSED
+13:19:57.342 DEBUG AUTOMATION - Matando el driver
+13:19:57.591 INFO  AUTOMATION - before: Verificar las redes sociales del footer
+13:19:57.591 DEBUG AUTOMATION - Inicializando el driver: EDGE
+13:19:57.591 DEBUG AUTOMATION - headless mode? false
+13:19:59.120 DEBUG AUTOMATION - Maximizando Pantalla
+13:19:59.225 DEBUG AUTOMATION - Borrando cookies
+13:19:59.248 DEBUG AUTOMATION - Asignando driver al webdriver provider
+13:19:59.248 DEBUG AUTOMATION - Asignando la cookie de login
+13:19:59.853 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+13:20:00.173 INFO  AUTOMATION - ShoppingPage se ha cargado satiscatoriamente
+13:20:00.240 INFO  AUTOMATION - Verificando los links de las redes sociales
+13:20:00.349 INFO  AUTOMATION - after: Verificar las redes sociales del footer, status: PASSED
+13:20:00.349 DEBUG AUTOMATION - Matando el driver
+13:20:00.663 INFO  AUTOMATION - afterAll
