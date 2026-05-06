@@ -7,7 +7,7 @@ Estructura de trabajo usando lenguaje de programación JAVA, usando MAVEN, JUNIT
 ![Excel](https://img.shields.io/badge/Excel-Data--Driven-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-Reporting-FF6B6B?style=for-the-badge&logo=qase&logoColor=white)
 
 - **Language:** Java 17.0.17 2025-10-21 LTS
 - **IDE** Intellij IDEA
